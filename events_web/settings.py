@@ -28,6 +28,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'tickets_app',
+    'rest_framework',
+
 ]
 
 MIDDLEWARE = [
